@@ -1,0 +1,11 @@
+.btnCover{
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    
+}
+.btn{
+    height: 45px;
+    width: 45px;
+    margin: 3px;
+}
